@@ -1,0 +1,30 @@
+{
+  "name": "whybug",
+  "version": "1.0.0",
+  "description": "whybug",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "lib": "rollup src/index.js --format iife --file dist/whybug.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icai/whybug.git"
+  },
+  "author": "Terry Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icai/whybug/issues"
+  },
+  "homepage": "https://github.com/icai/whybug#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-transform-runtime": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/runtime": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
