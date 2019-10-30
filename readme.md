@@ -45,5 +45,5 @@ https://github.com/crackjsnow/crack.js
 
 ## LICENSE 
 
-Copyright (c) 2019 Terry Cai 996 License
+Copyright (c) 2019 Terry Cai MIT License
 
