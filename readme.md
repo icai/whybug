@@ -39,7 +39,7 @@ https://github.com/deviantony/docker-elk
 
 JS 混淆分析
 
-[https://github.com/crackjsnow/crack.js](https://github.com/jscck/crack.js)
+[https://github.com/jscck/crack.js](https://github.com/jscck/crack.js)
 
 
 
